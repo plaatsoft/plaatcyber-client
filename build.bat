@@ -1,2 +1,2 @@
-call mvn install
+call mvn clean install
 call pause
